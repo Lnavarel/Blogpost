@@ -1,7 +1,7 @@
-# Blogpost :fa-github:
-Little blog made to practice the content of [Git & Github](http://https://platzi.com/cursos/git-github/ "Git & Github") course from [Platzi](http://https://platzi.com/ "Platzi")
+# Blogpost 
+Little blog made to practice the content of [Git & Github](https://platzi.com/cursos/git-github/ "Git & Github") course from [Platzi](https://platzi.com/ "Platzi")
 
 
 ------------
 
-**readme.md** edited with :editormd-logo-1x:[Editor.md](http://https://pandao.github.io/editor.md/en.html "Editor.md")
+**readme.md** edited with [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md")
