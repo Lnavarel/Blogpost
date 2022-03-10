@@ -51,6 +51,11 @@ body
     padding: 1em;
 }
 
+#farewell
+{
+    width: 10em;
+}
+
 #footer
 {
     background: rgb(250, 197, 250);
