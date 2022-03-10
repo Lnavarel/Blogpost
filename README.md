@@ -4,4 +4,4 @@ Little blog made to practice the content of [Git & Github](https://platzi.com/cu
 
 ------------
 
-**readme.md** edited with [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md")
+**README.md** edited with [Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md")
